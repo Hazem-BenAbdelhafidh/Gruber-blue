@@ -1,0 +1,24 @@
+{
+  "name": "gruber-blue",
+  "displayName": "Gruber-blue",
+  "publisher": "Hazem",
+  "description": "a blue version of tsoding emacs gruber",
+  "version": "0.0.5",
+  "icon": "./assets/Gruber-blue.webp",
+
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gruber-blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gruber-blue-color-theme.json"
+      }
+    ]
+  }
+}
