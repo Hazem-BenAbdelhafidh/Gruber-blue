@@ -1,10 +1,14 @@
 {
   "name": "gruber-blue",
-  "displayName": "Gruber-blue",
+  "displayName": "Gruber blue",
   "publisher": "Hazem",
   "description": "a blue version of tsoding emacs gruber",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "icon": "./assets/Gruber-blue.webp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hazem-BenAbdelhafidh/Gruber-blue"
+  },
 
   "engines": {
     "vscode": "^1.100.0"
