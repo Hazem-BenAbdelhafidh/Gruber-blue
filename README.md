@@ -1,16 +1,47 @@
-# gruber-blue README
+# Tsoding Gruber Blue — Custom Theme
 
-## Working with Markdown
+A clean **blue-tinted variant** of the original _Tsoding Emacs Gruber_ theme.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This theme keeps the same cozy, contrast-rich aesthetic of Gruber, but introduces a cool blue palette for a calmer, more modern look.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+It’s designed to be easy on the eyes, especially during long coding sessions.
 
-## For more information
+> **Recommended font:** _Caskaydia Mono Nerd Font_ for the best visual consistency and icon support.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+---
 
-**Enjoy!**
+## 🎨 Screenshots
+
+### Syntax Highlighting
+
+![Syntax Screenshot](./assets/image1.png)
+![Syntax Screenshot](./assets/image2.png)
+![Syntax Screenshot](./assets/image3.png)
+![Syntax Screenshot](./assets/image4.png)
+
+---
+
+## 📦 Installation
+
+Install the theme from your editor's extension marketplace or manually clone the repository.
+
+---
+
+## ⚙️ Usage
+
+After installation, select the theme:
+
+- **VS Code:** `Preferences → Color Theme → Tsoding Gruber Blue`
+- **Emacs (if using port):** load using your theme loader
+
+---
+
+## 🤝 Contributing
+
+Feel free to open issues or submit PRs for improvements.
+
+---
+
+## 📜 License
+
+MIT
